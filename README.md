@@ -1,1 +1,1 @@
-# VerselApp
+Tested in Chrome browser
